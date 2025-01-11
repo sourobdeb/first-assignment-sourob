@@ -1,0 +1,81 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+/* navbar */
+.navbar{
+    display: flex;
+    justify-content: space-around;
+   
+}
+.title{
+font-size: 32px;
+font-weight: bold;
+margin: 32px 160px;
+}
+.sign{
+ font-size: 18px;
+ font-weight: 600px;
+ padding: 15px 30px;
+ margin: 30px 100px;
+ border-radius: 8px;
+ color: #006A50;
+ border: 1px solid #006A50;
+
+}
+.banner{
+    display: flex;
+   justify-content: space-around;
+    background-color: #C6E4D6;
+    align-items: center;
+    text-align: justify;
+    border-radius: 24px;
+    width:80%;
+    height: 50%;
+    margin:0 160px;
+}
+.banner-right img{
+width: 400px;
+height: 300px;
+align-items: center;
+margin-top: 80px;
+margin-bottom: 80px;
+
+
+
+}
+.banner button{
+    padding: 17px 34px;
+   font-size:18px;
+   color: #ffff;
+   font-weight: 600px;
+   
+    
+}
+
+.bd{
+
+    font-size: 24px;
+    color:#0E0E0E;
+    margin-bottom: 16px;
+    font-weight: 400px;
+    opacity: 50%;
+}
+.banner-title{
+    font-weight: bold;
+    font-size: 56px;
+}
+
+.btn-banner{
+    background-color: #006A50;
+    border-radius: 8px;
+    border-style: none;
+    margin-top: 24px;
+}
+.banner-left{
+    margin: 60px;
+}
+
+
+
+
